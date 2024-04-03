@@ -7,9 +7,7 @@ while gameTerms:
 
     human_choice = input("select your choice: ")
     human_choice = human_choice.lower()
-    if gameTerms.count(human_choice):
-        pass
-    else:
+    if human_choice not in gameTerms:
         print("please..! make correct choice")
         break
 
@@ -44,3 +42,4 @@ while gameTerms:
             break
         else:
             print("ready for rematch")
+
