@@ -2,9 +2,7 @@ import random
 
 gameTerms = ["rock", "paper", "scissor"]
 
-gameStart = True
-
-while gameStart:
+while gameTerms:
     computer_choice = random.choice(gameTerms)
 
     human_choice = input("select your choice: ")
