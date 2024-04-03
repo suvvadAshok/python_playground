@@ -1,5 +1,8 @@
 # comments --> helps to understand the code, these are not run by the interpriter.
 
+# \n ---> for new line
+# \t ---> for tab space
+
 # variable: a piecw of memory allocate to named association in computer.
 
 var_name = "python"
