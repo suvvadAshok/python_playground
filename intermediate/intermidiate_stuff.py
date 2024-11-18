@@ -1,4 +1,4 @@
-import requests
+# import requests
 
 # req = requests.get("https://dog.ceo/api/breeds/image/random")
 # print(req.status_code)
@@ -34,3 +34,18 @@ import requests
 
 # newList = [n**2 for n in [1,3,5,7,9] if n**2>10]
 # print(newList) #[25, 49, 81]
+
+names = [("name","ashok"),("gender","male"),("age",24)]
+d={}
+# using for loop
+for key, value in names:
+    d[key] = value
+print(d)
+
+#DICTIONARY_COMPREHENSION
+d = {key:value for key, value in names}
+print(d)
+
+#shortcut
+d = dict(names)
+print(d)

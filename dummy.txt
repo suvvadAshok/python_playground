@@ -1,0 +1,69 @@
+body = {
+    "_metadata": {
+        "bundled": [
+            "Segment.io"
+        ],
+        "bundledIds": [],
+        "unbundled": []
+    },
+    "anonymousId": "219db51b-7f2a-4ca7-89b1-ef532844e182",
+    "channel": "client",
+    "context": {
+        "campaign": {
+            "agid": "159668332955",
+            "campaignid": "21015417774",
+            "source": "Google",
+            "term": "laparoscopy operation"
+        },
+        "ip": "103.102.86.57",
+        "library": {
+            "name": "analytics.js",
+            "version": "next-1.64.0"
+        },
+        "locale": "en-GB",
+        "page": {
+            "path": "/best-Laparoscopy-surgery-in-hyderabad",
+            "referrer": "https://www.google.com/",
+            "search": "?utm_source=Google\u0026utm_agid=159668332955\u0026utm_campaignid=21015417774\u0026utm_term=laparoscopy%20operation\u0026device=t\u0026gad_source=1\u0026gclid=CjwKCAiA_tuuBhAUEiwAvxkgThqNKPObDl6iG2e1q-d6OhgrsqU98kNBEmKBgvU7dMMtFhBL__tMMxoCivQQAvD_BwE",
+            "title": "Lux Hospitals - Advanced Laparoscopic \u0026 General surgery in hyderabad",
+            "url": "https://www.luxhospitals.com/best-Laparoscopy-surgery-in-hyderabad?utm_source=Google\u0026utm_agid=159668332955\u0026utm_campaignid=21015417774\u0026utm_term=laparoscopy%20operation\u0026device=t\u0026gad_source=1\u0026gclid=CjwKCAiA_tuuBhAUEiwAvxkgThqNKPObDl6iG2e1q-d6OhgrsqU98kNBEmKBgvU7dMMtFhBL__tMMxoCivQQAvD_BwE"
+        },
+        "timezone": "Asia/Calcutta",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "userAgentData": {
+            "brands": [
+                {
+                    "brand": "Not A(Brand",
+                    "version": "99"
+                },
+                {
+                    "brand": "Google Chrome",
+                    "version": "121"
+                },
+                {
+                    "brand": "Chromium",
+                    "version": "121"
+                }
+            ],
+            "mobile": "false",
+            "platform": "Android"
+        }
+    },
+    "integrations": {},
+    "messageId": "ajs-next-56736d7a8bb9632889695fa2c5ebb2dd",
+    "originalTimestamp": "2024-02-22T15:15:38.063Z",
+    "projectId": "2Qm4erkopK2VSNugv9Ej99",
+    "properties": {
+        "path": "/best-Laparoscopy-surgery-in-hyderabad",
+        "referrer": "https://www.google.com/",
+        "search": "?utm_source=Google\u0026utm_agid=159668332955\u0026utm_campaignid=21015417774\u0026utm_term=laparoscopy%20operation\u0026device=t\u0026gad_source=1\u0026gclid=CjwKCAiA_tuuBhAUEiwAvxkgThqNKPObDl6iG2e1q-d6OhgrsqU98kNBEmKBgvU7dMMtFhBL__tMMxoCivQQAvD_BwE",
+        "title": "Lux Hospitals - Advanced Laparoscopic \u0026 General surgery in hyderabad",
+        "url": "https://www.luxhospitals.com/best-Laparoscopy-surgery-in-hyderabad?utm_source=Google\u0026utm_agid=159668332955\u0026utm_campaignid=21015417774\u0026utm_term=laparoscopy%20operation\u0026device=t\u0026gad_source=1\u0026gclid=CjwKCAiA_tuuBhAUEiwAvxkgThqNKPObDl6iG2e1q-d6OhgrsqU98kNBEmKBgvU7dMMtFhBL__tMMxoCivQQAvD_BwE"
+    },
+    "receivedAt": "2024-02-22T15:15:36.606Z",
+    "sentAt": "2024-02-22T15:15:38.237Z",
+    "timestamp": "2024-02-22T15:15:36.432Z",
+    "type": "page",
+    "userId": "null",
+    "version": 2
+}
